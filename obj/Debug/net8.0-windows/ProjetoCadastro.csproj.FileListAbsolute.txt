@@ -1,0 +1,44 @@
+C:\Users\rapha\Documents\Faculdade\Programação Orientada a Eventos - POEE6 - Copia\ProjetoCadastro\ProjetoCadastro\bin\Debug\net8.0-windows\ProjetoCadastro.exe
+C:\Users\rapha\Documents\Faculdade\Programação Orientada a Eventos - POEE6 - Copia\ProjetoCadastro\ProjetoCadastro\bin\Debug\net8.0-windows\ProjetoCadastro.deps.json
+C:\Users\rapha\Documents\Faculdade\Programação Orientada a Eventos - POEE6 - Copia\ProjetoCadastro\ProjetoCadastro\bin\Debug\net8.0-windows\ProjetoCadastro.runtimeconfig.json
+C:\Users\rapha\Documents\Faculdade\Programação Orientada a Eventos - POEE6 - Copia\ProjetoCadastro\ProjetoCadastro\bin\Debug\net8.0-windows\ProjetoCadastro.dll
+C:\Users\rapha\Documents\Faculdade\Programação Orientada a Eventos - POEE6 - Copia\ProjetoCadastro\ProjetoCadastro\bin\Debug\net8.0-windows\ProjetoCadastro.pdb
+C:\Users\rapha\Documents\Faculdade\Programação Orientada a Eventos - POEE6 - Copia\ProjetoCadastro\ProjetoCadastro\bin\Debug\net8.0-windows\ReaLTaiizor.dll
+C:\Users\rapha\Documents\Faculdade\Programação Orientada a Eventos - POEE6 - Copia\ProjetoCadastro\ProjetoCadastro\obj\Debug\net8.0-windows\ProjetoCadastro.csproj.AssemblyReference.cache
+C:\Users\rapha\Documents\Faculdade\Programação Orientada a Eventos - POEE6 - Copia\ProjetoCadastro\ProjetoCadastro\obj\Debug\net8.0-windows\ProjetoCadastro.FormPrincipal.resources
+C:\Users\rapha\Documents\Faculdade\Programação Orientada a Eventos - POEE6 - Copia\ProjetoCadastro\ProjetoCadastro\obj\Debug\net8.0-windows\ProjetoCadastro.csproj.GenerateResource.cache
+C:\Users\rapha\Documents\Faculdade\Programação Orientada a Eventos - POEE6 - Copia\ProjetoCadastro\ProjetoCadastro\obj\Debug\net8.0-windows\ProjetoCadastro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rapha\Documents\Faculdade\Programação Orientada a Eventos - POEE6 - Copia\ProjetoCadastro\ProjetoCadastro\obj\Debug\net8.0-windows\ProjetoCadastro.AssemblyInfoInputs.cache
+C:\Users\rapha\Documents\Faculdade\Programação Orientada a Eventos - POEE6 - Copia\ProjetoCadastro\ProjetoCadastro\obj\Debug\net8.0-windows\ProjetoCadastro.AssemblyInfo.cs
+C:\Users\rapha\Documents\Faculdade\Programação Orientada a Eventos - POEE6 - Copia\ProjetoCadastro\ProjetoCadastro\obj\Debug\net8.0-windows\ProjetoCadastro.csproj.CoreCompileInputs.cache
+C:\Users\rapha\Documents\Faculdade\Programação Orientada a Eventos - POEE6 - Copia\ProjetoCadastro\ProjetoCadastro\obj\Debug\net8.0-windows\ProjetoC.005B9A85.Up2Date
+C:\Users\rapha\Documents\Faculdade\Programação Orientada a Eventos - POEE6 - Copia\ProjetoCadastro\ProjetoCadastro\obj\Debug\net8.0-windows\ProjetoCadastro.dll
+C:\Users\rapha\Documents\Faculdade\Programação Orientada a Eventos - POEE6 - Copia\ProjetoCadastro\ProjetoCadastro\obj\Debug\net8.0-windows\refint\ProjetoCadastro.dll
+C:\Users\rapha\Documents\Faculdade\Programação Orientada a Eventos - POEE6 - Copia\ProjetoCadastro\ProjetoCadastro\obj\Debug\net8.0-windows\ProjetoCadastro.pdb
+C:\Users\rapha\Documents\Faculdade\Programação Orientada a Eventos - POEE6 - Copia\ProjetoCadastro\ProjetoCadastro\obj\Debug\net8.0-windows\ProjetoCadastro.genruntimeconfig.cache
+C:\Users\rapha\Documents\Faculdade\Programação Orientada a Eventos - POEE6 - Copia\ProjetoCadastro\ProjetoCadastro\obj\Debug\net8.0-windows\ref\ProjetoCadastro.dll
+C:\Users\rapha\Documents\Faculdade\Programação Orientada a Eventos - POEE6 - Copia\ProjetoCadastro\ProjetoCadastro\obj\Debug\net8.0-windows\ProjetoCadastro.Properties.Resources.resources
+C:\Users\rapha\Documents\Faculdade\Programação Orientada a Eventos - POEE6 - Copia\ProjetoCadastro\ProjetoCadastro\obj\Debug\net8.0-windows\ProjetoCadastro.FormCadastroAluno.resources
+C:\POE\Crud\ProjetoCadastro\ProjetoCadastro\ProjetoCadastro\obj\Debug\net8.0-windows\ProjetoCadastro.csproj.AssemblyReference.cache
+C:\POE\Crud\ProjetoCadastro\ProjetoCadastro\ProjetoCadastro\obj\Debug\net8.0-windows\ProjetoCadastro.dll
+C:\POE\Crud\ProjetoCadastro\ProjetoCadastro\ProjetoCadastro\obj\Debug\net8.0-windows\refint\ProjetoCadastro.dll
+C:\POE\Crud\ProjetoCadastro\ProjetoCadastro\ProjetoCadastro\obj\Debug\net8.0-windows\ProjetoCadastro.pdb
+C:\POE\Crud\ProjetoCadastro\ProjetoCadastro\ProjetoCadastro\obj\Debug\net8.0-windows\ProjetoCadastro.FormCadastroAluno.resources
+C:\POE\Crud\ProjetoCadastro\ProjetoCadastro\ProjetoCadastro\obj\Debug\net8.0-windows\ProjetoCadastro.FormPrincipal.resources
+C:\POE\Crud\ProjetoCadastro\ProjetoCadastro\ProjetoCadastro\obj\Debug\net8.0-windows\ProjetoCadastro.Properties.Resources.resources
+C:\POE\Crud\ProjetoCadastro\ProjetoCadastro\ProjetoCadastro\obj\Debug\net8.0-windows\ProjetoCadastro.csproj.GenerateResource.cache
+C:\POE\Crud\ProjetoCadastro\ProjetoCadastro\ProjetoCadastro\obj\Debug\net8.0-windows\ProjetoCadastro.GeneratedMSBuildEditorConfig.editorconfig
+C:\POE\Crud\ProjetoCadastro\ProjetoCadastro\ProjetoCadastro\obj\Debug\net8.0-windows\ProjetoCadastro.AssemblyInfoInputs.cache
+C:\POE\Crud\ProjetoCadastro\ProjetoCadastro\ProjetoCadastro\obj\Debug\net8.0-windows\ProjetoCadastro.AssemblyInfo.cs
+C:\POE\Crud\ProjetoCadastro\ProjetoCadastro\ProjetoCadastro\obj\Debug\net8.0-windows\ProjetoCadastro.csproj.CoreCompileInputs.cache
+C:\POE\Crud\ProjetoCadastro\ProjetoCadastro\ProjetoCadastro\obj\Debug\net8.0-windows\ProjetoCadastro.sourcelink.json
+C:\POE\Crud\ProjetoCadastro\ProjetoCadastro\ProjetoCadastro\bin\Debug\net8.0-windows\ProjetoCadastro.exe
+C:\POE\Crud\ProjetoCadastro\ProjetoCadastro\ProjetoCadastro\bin\Debug\net8.0-windows\ProjetoCadastro.deps.json
+C:\POE\Crud\ProjetoCadastro\ProjetoCadastro\ProjetoCadastro\bin\Debug\net8.0-windows\ProjetoCadastro.runtimeconfig.json
+C:\POE\Crud\ProjetoCadastro\ProjetoCadastro\ProjetoCadastro\bin\Debug\net8.0-windows\ProjetoCadastro.dll
+C:\POE\Crud\ProjetoCadastro\ProjetoCadastro\ProjetoCadastro\bin\Debug\net8.0-windows\ProjetoCadastro.pdb
+C:\POE\Crud\ProjetoCadastro\ProjetoCadastro\ProjetoCadastro\bin\Debug\net8.0-windows\ReaLTaiizor.dll
+C:\POE\Crud\ProjetoCadastro\ProjetoCadastro\ProjetoCadastro\obj\Debug\net8.0-windows\ProjetoC.005B9A85.Up2Date
+C:\POE\Crud\ProjetoCadastro\ProjetoCadastro\ProjetoCadastro\obj\Debug\net8.0-windows\ProjetoCadastro.genruntimeconfig.cache
+C:\POE\Crud\ProjetoCadastro\ProjetoCadastro\ProjetoCadastro\obj\Debug\net8.0-windows\ref\ProjetoCadastro.dll
+C:\POE\Crud\ProjetoCadastro\ProjetoCadastro\ProjetoCadastro\obj\Debug\net8.0-windows\ProjetoCadastro.CadastroCurso1.resources
